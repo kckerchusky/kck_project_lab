@@ -4,3 +4,4 @@ It's a beautifully sunny day in VA
 My cat, Vera, is snoozing on my desk
 This is Git training
 I think I'm following along
+This new line is after cloning from github to my local
